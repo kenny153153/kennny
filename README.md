@@ -12,6 +12,11 @@ testing_$.php
 other js file
 -> File that contain the HTML -> PDF function code
 
+Report example
+-> Although I upload microsoft word, but when I do my report, I usually use Mac Pages. But I know it is easier to make this project by words. Also, The pdf is what I usually send to customer. So I want the end result to be like that, but skipping all the copy and paste, which I am doing everyday. Thats why I am building this.
+
+
+
 
 
 
