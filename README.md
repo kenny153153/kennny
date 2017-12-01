@@ -1,5 +1,16 @@
 # kennny
 
+NEW :
+
+1.Upload a new mac pages, that is the tags what I want (the word.docx is actully old, so can delete it if you wish)
+2.Provide my company logo to use on style
+3.For the "YELLOW SIDEBAR ON FIRST PAGE", please make something similar, i dont have a copy of that. 
+
+
+
+
+
+
 report_html.php 
 -> A file that contains all the code of my usual report, extracted from microsoft word webpage html. I use this to get the css, and grasp the flow of the code.
 
